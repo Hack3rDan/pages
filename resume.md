@@ -74,7 +74,6 @@
 
 ## **Contact Information**
 * **Email:** bill@reimerfamily.net
-* **Phone:** (240) 538-6220
 * **GitHub:** https://github.com/Hack3rDan
 
 **Tips for Creating a Strong Markdown Resume:**
