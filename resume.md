@@ -60,7 +60,11 @@
 * **Splunk Certified Cybersecurity Defense Engineer**
   * Splunk
   * 2023
-  ![Splunk CDE](images/splunk-certified-cybersecurity-defense-engineer.png)
+
+![Splunk CDE](images/splunk-certified-cybersecurity-defense-engineer.png)
+
+[Splunk Certified Cybersecurity Defense Engineer][https://www.credly.com/badges/03e05cc2-b838-49f9-942c-3913280676b6/public_url]
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03e05cc2-b838-49f9-942c-3913280676b6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 * **Professional Scrum Master**
