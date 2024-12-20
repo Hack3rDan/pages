@@ -34,7 +34,7 @@
 ## **Education**
 
 ### **M.S. Information Technology**
-**University of Maryland Global Campus** | **MD** | **2020**
+**University of Maryland Global Campus** | **Rockville, MD** | **2020**
 * **Relevant coursework and projects:**
   * Bullet point 1
   * Bullet point 2
@@ -64,15 +64,18 @@ https://www.credly.com/users/bill-reimer.cc9aa081
   * Splunk
   * 2024
 
-![Splunk CDE](images/splunk-certified-cybersecurity-defense-engineer.png)
+  <img src="images/splunk-certified-cybersecurity-defense-engineer.png" alt="drawing" width="100"/>
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03e05cc2-b838-49f9-942c-3913280676b6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 * **Professional Scrum Master**
   * Scrum.org
   * 2024
 
-  ![PSM 1](images/professional-scrum-master-i-psm-i.png)
   <img src="images/professional-scrum-master-i-psm-i.png" alt="drawing" width="100"/>
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b206e229-4aa1-49a7-a876-611481601964" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## **Awards and Honors**
 * **Award Name**
@@ -82,14 +85,3 @@ https://www.credly.com/users/bill-reimer.cc9aa081
 ## **Contact Information**
 * **Email:** bill@reimerfamily.net
 * **GitHub:** https://github.com/Hack3rDan
-
-**Tips for Creating a Strong Markdown Resume:**
-
-1. **Keep it simple and clean:** Use clear headings and bullet points.
-2. **Tailor your resume to specific job applications:** Highlight relevant skills and experiences.
-3. **Use strong action verbs:** Start each bullet point with a powerful verb (e.g., "Developed," "Implemented," "Led").
-4. **Quantify your achievements:** Use metrics to showcase your impact (e.g., "Increased sales by 20%").
-5. **Proofread carefully:** Check for typos, grammatical errors, and formatting inconsistencies.
-6. **Consider using a Markdown previewer:** This will help you visualize how your resume will look when rendered.
-
-By following these guidelines, you can create a professional and effective Markdown resume that will help you stand out from the crowd.
