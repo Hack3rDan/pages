@@ -36,25 +36,29 @@
 ### **M.S. Information Technology**
 **University of Maryland Global Campus** | **Rockville, MD** | **2020**
 * **Relevant coursework and projects:**
-  * Bullet point 1
-  * Bullet point 2
-  * Bullet point 3
+  * Specialization in Project Managment
 
 ### **B.S. Computer Science**
 **University of Illinois at Urbana-Champaign** | **Urbana, IL** | **2012**
 * **Relevant coursework and projects:**
-  * Bullet point 1
-  * Bullet point 2
-  * Bullet point 3
+  * Specialization in Networking
 
 ## **Projects**
-### **SIEM Standup**
-* **Brief description of the project**
+### **Splunk Enterprise Security Deployment**
+* **Spearheaded initial Splunk ES deployment, developed advanced detections and correlation searches, and engineered automated incident response workflows via SOAR playbooks.**
   * **Technologies used:**
-    * Technology 1
-    * Technology 2
-    * Technology 3
-  * **Link to project repository (if applicable)**
+    * Splunk/Splunk ES/Splunk SOAR
+    * Project Management
+    * Detection Engineering
+    * Automation Engineering
+
+    ### **Zero Trust Deployment to Tactical Endpoints**
+* **Led a groundbreaking initiative to pilot zero-trust security architecture on US Navy ships, leveraging Azure Stack HCI for a robust and secure deployment.**
+  * **Technologies used:**
+    * Azure
+    * HCI
+    * Incident Resopnse
+    * Microsoft Defender for Endpoint
 
 ## **Certifications**
 
