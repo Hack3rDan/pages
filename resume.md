@@ -72,6 +72,7 @@ https://www.credly.com/users/bill-reimer.cc9aa081
   * 2024
 
   ![PSM 1](images/professional-scrum-master-i-psm-i.png)
+  <img src="images/professional-scrum-master-i-psm-i.png" alt="drawing" width="100"/>
 
 ## **Awards and Honors**
 * **Award Name**
